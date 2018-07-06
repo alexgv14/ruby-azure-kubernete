@@ -14,7 +14,6 @@ https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough
 DadeCore App on Kubernetes
 http://test.dadesystems.com
 
-`ruby kubernetes/azure_kubernete_deploy.rb "snapper"` or `ruby kubernetes/azure_kubernete_deploy.rb "guppy"`
-
+`ruby kubernetes/azure_kubernete_deploy.rb "deployment_name"`
 
 ![kubernete](https://user-images.githubusercontent.com/354629/41745484-15c0b824-7575-11e8-8c2b-64b24f3d2bcf.gif)
