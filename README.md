@@ -7,12 +7,7 @@ Pre requirements:
 
 Documentation to help understand:
 
-https://github.com/DadeSystems/DadeCore/wiki/Kubernetes-Setup-Documentation
-
 https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough
-
-DadeCore App on Kubernetes
-http://test.dadesystems.com
 
 `ruby kubernetes/azure_kubernete_deploy.rb "deployment_name"`
 
